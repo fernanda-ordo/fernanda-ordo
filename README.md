@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fernanda-ordo 
-- 🌱 I am currently studying computer engineering
+- 🌱 I´m currently studying computer engineering
 - 📫 You can contact me by my email, ferordonezfigueroa@gmail.com
 
 <!---
